@@ -2,7 +2,7 @@
 
 ## Resumo
 
-O projeto consiste na criação de um site HTML para estudo, com o objetivo de aprimorar minhas habilidades em desenvolvimento web. Este site tem o objetivo de sumular uma universidade ficticia.
+O projeto consiste na criação de um site HTML para estudo, com o objetivo de aprimorar minhas habilidades em desenvolvimento web. Este site tem o objetivo de simular uma universidade ficticia.
 
 ## Objetivos
 
